@@ -1,0 +1,8 @@
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\bin\Debug\ViewFile.exe
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.exe
+D:\Documents\baso01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.pdb
